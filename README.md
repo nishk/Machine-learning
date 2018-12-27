@@ -1,2 +1,6 @@
-# Machine-learning-practice
-This repository is to practice machine learning problems. I will add description as and so I practice &amp; solve problems.
+# Machine-learning
+This repository is to practice machine learning problems.
+
+Topics implemented -
+
+1. Linear Regression with multiple features and gradient descent
